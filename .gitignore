@@ -1,0 +1,7 @@
+# Files are too big
+data/
+
+# Jupyter virtual environment
+venv/
+
+*.csv
